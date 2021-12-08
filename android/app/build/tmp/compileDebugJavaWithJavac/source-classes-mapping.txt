@@ -1,0 +1,14 @@
+com/buscalivro/MainActivity.java
+ com.buscalivro.MainActivity
+com/buscalivro/BuildConfig.java
+ com.buscalivro.BuildConfig
+com/buscalivro/ReactNativeFlipper.java
+ com.buscalivro.ReactNativeFlipper
+ com.buscalivro.ReactNativeFlipper$1
+ com.buscalivro.ReactNativeFlipper$2
+ com.buscalivro.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/buscalivro/MainApplication.java
+ com.buscalivro.MainApplication
+ com.buscalivro.MainApplication$1
